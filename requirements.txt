@@ -1,0 +1,6 @@
+streamlit
+flask
+numpy
+serpapi
+scikit-learn
+python-dotenv
